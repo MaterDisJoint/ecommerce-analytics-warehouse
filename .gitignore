@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dbt
+ecom_dw/target/
+ecom_dw/dbt_packages/
+ecom_dw/logs/
+
+# local data samples
+ecom_dw/models/staging/thelook_samples/
